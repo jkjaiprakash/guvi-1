@@ -1,8 +1,8 @@
-d,b=raw_input().split()
-d=int(d)
+j,b=raw_input().split()
+j=int(j)
 b=int(b)
  
-for n in range(d,b):
+for n in range(j,b):
    sum = 0
    temp = n
    while temp > 0:
